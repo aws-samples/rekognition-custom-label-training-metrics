@@ -36,7 +36,7 @@ Rekognition generates a number of evaluations, training and test summary dataset
 
 **Getting the Project ARN and version name**
 
-The notebooks needs the project ARN and version name to get the S3 summary dataset location. You can find the version name under the project in the Rekognition console but project ARN might not be visible in the console. If you created the project via CLI, you would have got ARN as a json response. If you missed storing the ARN or if you used the console to create the project, you can still run a describe CLI command to list Custom Label projects in your AWS account and grab your corresponding project ARN with the below command
+The notebook needs the project ARN and version name to get the S3 summary dataset location. You can find the version name under the project in the Rekognition console but project ARN might not be visible in the console. If you created the project via CLI, you would have got ARN as a json response. If you missed storing the ARN or if you used the console to create the project, you can still run a describe CLI command to list Custom Label projects in your AWS account and grab your corresponding project ARN with the below command
 
 aws rekognition describe-projects
 
