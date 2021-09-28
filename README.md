@@ -15,17 +15,17 @@ You can use the real estate images zip file in the repository to create a custom
 
 **Metrics of interest**
 
-1.Confusion Matrix\
-2.Heat map\
-3.Classification report\
-4.Micro / Macro / Weighted precision\
-5.Micro / Macro / Weighted recall\
-6.Micro / Macro / Weighted F1 score\
-7.Raw accuracy\
-8.Balanced accuracy\
-9.Hamming loss\
-10.Jaccard score\
-11.Matthew's correlation coefficient\
+Confusion Matrix\
+Heat map\
+Classification report\
+Micro / Macro / Weighted precision\
+Micro / Macro / Weighted recall\
+Micro / Macro / Weighted F1 score\
+Raw accuracy\
+Balanced accuracy\
+Hamming loss\
+Jaccard score\
+Matthew's correlation coefficient\
 
 **S3 Summary datasets**
 
@@ -50,7 +50,7 @@ And this would return a JSON in the below format.
             "Status": "CREATED"\
         }\
     ]\
-}\
+}
 
 Now that you have all the needed info, you can go ahead and run the notebook to generate and visualize model metrics.
 
