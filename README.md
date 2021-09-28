@@ -54,7 +54,7 @@ And this would return a JSON in the below format.
 
 Now that you have all the needed info, you can go ahead and run the notebook to generate and visualize model metrics.
 
-**Conclusion**
+**Conclusion** 
 
 Based on your use case, if you find your important metric to be high or low, it would be appropriate to review and add appropriate data points or augment the existing datasets with more features, labels etc. Hope you found the sample project to provide better insights of your custom model.
 
