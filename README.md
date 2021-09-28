@@ -1,4 +1,4 @@
-Rekognition Custom Label Training Metrics
+**Rekognition Custom Label Training Metrics**
 
 **Introduction**
 
