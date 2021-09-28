@@ -15,8 +15,8 @@ You can use the real estate images zip file in the repository to create a custom
 
 **Metrics of interest**
 
-1.Confusion Matrix__
-2.Heat map__
+1.Confusion Matrix\
+2.Heat map\
 3.Classification report__
 4.Micro / Macro / Weighted precision__
 5.Micro / Macro / Weighted recall__
